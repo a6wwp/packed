@@ -1,0 +1,16 @@
+{
+  "packs": [
+    {
+      "name": "a6wwp's pack",
+      "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
+      "zip_url": "https://github.com/a6wwp/gallery-/raw/e58cbe08ff2927484f780e1d71d82a5c78be6e3c/a6.zip",
+      "thumbnail": "https://github.com/a6wwp/gallery-/blob/main/A6.png?raw=true"
+    },
+    {
+      "name": "ZFX's pack",
+      "uuid": "202539ce-e6c5-40b5-a4a1-4296277d18f6",
+      "zip_url": "https://github.com/a6wwp/gallery-/raw/e58cbe08ff2927484f780e1d71d82a5c78be6e3c/ZFX10.zip",
+      "thumbnail": "https://github.com/a6wwp/gallery-/blob/main/A7.png?raw=true"
+    }
+  ]
+}
